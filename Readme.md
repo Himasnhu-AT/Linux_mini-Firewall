@@ -55,6 +55,4 @@ The mini firewall application uses a command-line interface (CLI) to interact wi
 
 ## License
 
-This mini firewall application is licensed under the
-
- [MIT License](LICENSE).
+This mini firewall application is licensed under the [MIT License](LICENSE).
