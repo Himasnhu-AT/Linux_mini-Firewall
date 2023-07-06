@@ -271,4 +271,4 @@ int main(int argc, char *const argv[])
 #endif
         delete_rule(delete_num);
     }
-}s
+}
